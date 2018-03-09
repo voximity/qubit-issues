@@ -1,5 +1,5 @@
 # qubit
-This is a blank repository for submitting issues for Qubit and viewing prototype documentation. You can visit Qubit's website [here][qubit-website].
+This is a blank repository for submitting issues for Qubit and viewing prototype documentation. You can visit Qubit's website [here][qubit-website]. *The Qubit website is currently in development*
 
 ## Issues
 Feel free to create issues. Just make sure you're not making yourself sound dumb.
