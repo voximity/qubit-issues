@@ -1,0 +1,8 @@
+**Profiles**
+
+Profiles are a big part of the Qubit bot, letting you costumize your profile with a biograph and a status.
+It also displays your current amount of <img src="https://i.imgur.com/qgQrp1k.png" width="24px"/> at the time, your name with your hashtag,
+your Qubit level and experience and your reputation.
+Profiles are useful for expressing yourself, updating the people around you in a way that is nicely laid out and convenient,
+
+**Commands**
