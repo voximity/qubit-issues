@@ -1,0 +1,38 @@
+**Profiles**
+
+Profiles are a big part of the Qubit bot, letting you costumize your profile with a biograph and a status.
+It also displays your current amount of <img src="https://i.imgur.com/qgQrp1k.png" width="24px"/> at the time, your name with your hashtag,
+your Qubit level and experience and your reputation.
+Profiles are useful for expressing yourself, updating the people around you in a way that is nicely laid out and convenient,
+
+**Commands**
+\profile
+  The profile command is used to display your own profile.
+    
+    \profile [username]
+      To display another person's profile do "\profile" followed by mentioning said user.
+  
+      Example : "\profile @FakeUser#2534" will give you the profile of FakeUser
+
+    \profile bio <content>
+      This subcommand will set your biography, or bio, on your profile. This text can be up to 280 characters long.
+      The profile bio also supports standard emojies, bold and italic text, crossout and link embedding. 
+      Link embedding can be done by writting your link button in between squared brackets 
+      immediatly followed by your link contained in normal brackets [button](http://link.com)
+      pictures below for a better understanding of link embedding.
+      
+      Example: "\profile Bio Hi my name is FakeUser!" will set your bio to display "Hi my name is FakeUser!"
+      
+    \profile status <content>
+      The status subcommand sets the status part of your profile. The status is meant for a shorter description of how you are
+      at the moment but can be used in any way you want. Besides the character limit being 140 the same rules apply for status as do for bios
+      
+      Example: "\profile status Feeling great mate!" will set your status to display "Feeling great mate!"
+      
+      
+      
+      
+      
+      
+      Embedding links: https://imgur.com/a/Rzhr5
+      Result: https://imgur.com/a/opypg
