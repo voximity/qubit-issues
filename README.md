@@ -1,3 +1,7 @@
+> ### Unfortunately, Qubit has reached end-of-life.
+> #### A message from the creator:
+> Hi everyone,
+> Qubit is a dead project. I no longer am able to find time to work on it and it's just as much of a project as my thousands of other ones I never finish. I'm tremendously thankful to a select few people who have done everything they can to keep the project alive while I sit back and watch. However, after confrontation, the public build of Qubit will no longer be publicly accessible 24/7. In short, Qubit is going on a long to permanent hiatus.
 # qubit
 This is a blank repository for submitting issues for Qubit and viewing prototype documentation. You can visit Qubit's website [here][qubit-website].
 
